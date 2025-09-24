@@ -1,0 +1,156 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.btn {
+  background-color: #9c661b;
+  color: rgb(255, 255, 255);
+}
+.top-container {
+  background-image: url(./Assets/Cloud.jpg);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-x: hidden;
+  margin: 0;
+  min-height: 100vh;
+  padding-top: 10px;
+}
+.title-container {
+  padding-top: 100px;
+}
+.text-color {
+  align-items: flex-end;
+  font-family: "Montserrat Alternates", sans-serif;
+  color: #634111;
+}
+.navbar {
+  display: flex;
+  position: fixed;
+  background-image: url(./Assets/Cloud.jpg);
+  margin: 0;
+  width: 100%;
+  justify-content: space-between;
+  background-size: cover;
+  left: 0;
+  top: 0;
+  padding: 0.5rem 2rem;
+  align-items: center;
+  z-index: 1000;
+}
+.name_text {
+  color: #634111;
+  font-family: "Sacramento", cursive;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.nav {
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+}
+.nav-pills .nav-link.active {
+  background-color: rgb(83, 78, 78);
+}
+.title-text {
+  color: #9c661b;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  padding: 50px;
+}
+.pro {
+  font-family: "Montserrat Alternates", sans-serif;
+  color: #634111;
+}
+.profile-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.hello {
+  color: #cc7700;
+  font-family: "Montserrat", sans-serif;
+}
+.intro {
+  font-family: "Montserrat", sans-serif;
+  width: 30%;
+}
+hr {
+  border-style: dotted;
+  border-bottom-width: 6px;
+  border-color: #cc7700;
+  width: 4%;
+  margin: 100px auto;
+}
+.skills {
+  width: 50%;
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+}
+.gif {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.skills h1 {
+  color: #9c661b;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 100px;
+  font-size: 2.5rem;
+}
+.skills h3 {
+  color: #cc7700;
+  font-family: "Montserrat", sans-serif;
+}
+.coffee-img {
+  border-radius: 50%;
+  border: 12px solid;
+}
+.contact h1 {
+  font-family: "Montserrat", sans-serif;
+
+  color: #9c661b;
+}
+.contact h3 {
+  color: #cc7700;
+}
+.nav-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.skill-list {
+  display: flex;
+  justify-content: space-between;
+}
+.skill-list ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: start;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-size: large;
+}
+.footer {
+  background-image: url(./Assets/Cloud.jpg);
+  bottom: 0;
+  margin: 0;
+}
+.nav-link{
+  color: white;
+}
+.copyright {
+  color: white;
+}
