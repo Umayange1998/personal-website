@@ -1,7 +1,6 @@
 🌐 Personal Portfolio – Umayange Gamachchi
 
 A modern and responsive personal portfolio website built with HTML, CSS, and Bootstrap 5.
-It showcases my skills, projects, and background as a Software Engineer with a passion for clean design, full-stack development, and coffee-driven creativity.
 
 🚀 Features
 
