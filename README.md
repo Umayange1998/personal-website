@@ -41,5 +41,8 @@ Google Fonts
 
 SVG Icons
 
-🔗 Live Demo
-https://umayange1998.github.io/personal-website/
+## 🔗 Live Demo
+
+<a href="https://umayange1998.github.io/personal-website/" target="_blank" rel="noopener noreferrer">
+  Visit Live Website
+</a>
